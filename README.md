@@ -1,9 +1,15 @@
+<p align="center">
+  <img src="https://via.placeholder.com/1000x250/0e75b6/FFFFFF?text=Aftab+Mansuri+-+Software+Engineer+%26+Data+Scientist" width="100%" alt="Aftab Mansuri Banner">
+</p>
+
 <h1 align="center">Hi 👋, I'm Aftab Mansuri</h1>
 <h3 align="center">Aspiring Software Engineer & Data Scientist | Python | Data Analysis | ML Enthusiast 🚀</h3>
 
-<img align="right" alt="coding" width="400" src="gif.gif">
+<p align="center"> 
+  <img src="https://komarev.com/ghpvc/?username=mansuriaftabmfd&label=Profile%20views&color=0e75b6&style=flat" alt="mansuriaftabmfd views" /> 
+</p>
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=mansuriaftabmfd&label=Profile%20views&color=0e75b6&style=flat" alt="mansuriaftabmfd" /> </p>
+<img align="right" alt="coding" width="400" src="gif.gif">
 
 - 🔭 I’m currently working on **Data Science & ML Projects | Full Stack Projects**
 
@@ -11,18 +17,20 @@
 
 - 🤝 I’m looking for help with **Advanced Machine Learning & Real-world Projects & Software Development**
 
-- 👨‍💻 All of my projects are available at [https://iamaftabmansuri.vercel.app](https://iamaftabmansuri.vercel.app)
+- 👨‍💻 All of my projects are available at [iamaftabmansuri.vercel.app](https://iamaftabmansuri.vercel.app)
 
 - 💬 Ask me about **Python, Data Analysis, Machine Learning, Java Development**
 
-- 📫 How to reach me **[mansuriaftab7860@gmail.com](mailto:mansuriaftab7860@gmail.com)**
+- 📫 How to reach me: **[mansuriaftab7860@gmail.com](mailto:mansuriaftab7860@gmail.com)**
 
-- ⚡ Fun fact **Passionate about coding, curious about data, and always ready to learn 📚**
+- ⚡ Fun fact: **Passionate about coding, curious about data, and always ready to learn 📚**
+
+<br>
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
-<a href="https://linkedin.com/in/aftab-mansuri" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="aftab mansuri" height="30" width="40" /></a>
-<a href="https://www.topcoder.com/members/382150" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/topcoder.svg" alt="topcoder" height="30" width="40" /></a>
+<a href="https://linkedin.com/in/aftab-mansuri" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="aftab mansuri linkedin" height="30" width="40" /></a>
+<a href="https://www.topcoder.com/members/382150" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/topcoder.svg" alt="topcoder profile" height="30" width="40" /></a>
 </p>
 
 <h3 align="left">Languages and Tools:</h3>
@@ -45,10 +53,15 @@
   <a href="https://vuejs.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/vuejs/vuejs-original-wordmark.svg" alt="vuejs" width="40" height="40"/> </a> 
 </p>
 
-<br><br>
+<br clear="both">
+<br>
 
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=mansuriaftabmfd&show_icons=true&locale=en&layout=compact&theme=radical" alt="mansuriaftabmfd" /></p>
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=mansuriaftabmfd&show_icons=true&locale=en" alt="mansuriaftabmfd stats" />
+  &nbsp;&nbsp;
+  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=mansuriaftabmfd&show_icons=true&locale=en&layout=compact" alt="mansuriaftabmfd top languages" />
+</p>
 
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=mansuriaftabmfd&show_icons=true&locale=en&theme=radical" alt="mansuriaftabmfd" /></p>
-
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=mansuriaftabmfd&theme=radical" alt="mansuriaftabmfd" /></p>
+<p align="center">
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=mansuriaftabmfd&" alt="mansuriaftabmfd streak" />
+</p>
