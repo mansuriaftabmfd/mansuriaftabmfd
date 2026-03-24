@@ -1,5 +1,5 @@
 <div align="center">
-  <img src="https://raw.githubusercontent.com/7o1x/7o1x/main/assets/coding.gif" width="250" alt="coding animated gif"/>
+  <img src="gif.gif" width="250" alt="coding animated gif"/>
   <h1>Hi 👋, I'm Aftab Mansuri</h1>
   <h3>Aspiring Software Engineer & Data Scientist | Python | Data Analysis | ML Enthusiast 🚀</h3>
 </div>
