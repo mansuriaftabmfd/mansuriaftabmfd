@@ -71,10 +71,10 @@ With expertise in **Full-Stack Development**, **Machine Learning**, and **Cloud 
 ### 🔥 Why I Code
 
 ```
-Passionate about solving puzzles through code 🧩
-Obsessed with clean architecture and best practices 🏗️
-Always up for a technical challenge 💪
-Driven by turning ideas into reality 🚀
+🧩 Passionate about solving puzzles through code
+🏗️ Obsessed with clean architecture and best practices
+💪 Always up for a technical challenge
+🚀 Driven by turning ideas into reality
 ```
 
 **I believe great code is art.** Each line matters. Each function tells a story. 
@@ -272,36 +272,52 @@ Visit my [**Portfolio**](https://iamaftabmansuri.vercel.app) for:
 
 <!-- Premium Dark Footer Section -->
 <div align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0d1117&color=100:1a1a2e&height=150&section=footer&text=Happy%20Coding!&fontSize=40&fontColor=00d4ff&animation=fadeIn" width="100%"/>
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0d1117&color=100:1a1a2e&height=120&section=footer" width="100%"/>
 </div>
 
-<div align="center" style="background-color: #0d1117; padding: 20px; border-radius: 10px; margin-top: 20px;">
-  
-  ### ⭐ Support My Work
-  
-  **If you find my repositories useful, please consider giving them a star!** ⭐
-  
-  Your support means the world to me and helps others discover these projects.
-  
-  ---
-  
-  <p><strong>Let's build something amazing together! 🚀</strong></p>
-  
-  <p style="margin-top: 15px;">Made with ❤️ and ☕ by <strong>Aftab Mansuri</strong></p>
-  
-  <p style="margin-top: 10px;">
-    <a href="https://www.linkedin.com/in/aftab-mansuri-607811338/?utm_source=github" target="_blank" rel="noopener noreferrer">
-      <img src="https://img.shields.io/badge/Connect%20on%20LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Badge"/>
-    </a>
-  </p>
-  
-  <p style="font-size: 12px; color: #888; margin-top: 10px;">
-    © 2026 Aftab Mansuri • All Rights Reserved
-  </p>
-  
-</div>
+<div align="center">
+
+### 🚀 Keep Building, Keep Learning, Keep Growing!
+
+```
+Let's create something extraordinary together.
+Every line of code is a step towards innovation.
+Every challenge overcome is a lesson learned.
+Together, we can build solutions that matter!
+```
 
 ---
+
+### 💡 My Development Philosophy
+
+- **Write Clean Code** → Tomorrow's you will thank today's you
+- **Test Everything** → Don't trust, verify
+- **Document Wisely** → Code is for machines, comments are for humans
+- **Collaborate Often** → Great ideas come from great conversations
+- **Ship Fast, Iterate Often** → Perfect is the enemy of good
+- **Never Stop Learning** → The tech industry never stops, neither do I
+
+---
+
+### 🌟 Let's Work Together
+
+If you're looking for a developer who writes quality code, thinks systematically, and brings energy to your team—**let's talk!**
+
+<p style="margin-top: 20px;">
+  <a href="https://www.linkedin.com/in/aftab-mansuri-607811338/?utm_source=github" target="_blank" rel="noopener noreferrer">
+    <img src="https://img.shields.io/badge/🤝%20Connect%20on%20LinkedIn-%230077B5?style=for-the-badge&logoColor=white" alt="LinkedIn Badge"/>
+  </a>
+</p>
+
+---
+
+**Made with ❤️, ☕, and 💻 by Aftab Mansuri**
+
+*"Code is the art of tomorrow. Let's paint the future together."* 🎨✨
+
+© 2026 Aftab Mansuri • All Rights Reserved | Crafted with passion 🔥
+
+</div>
 
 <div align="center">
   <img src="https://capsule-render.vercel.app/api?type=rect&color=0:0e75b6&color=100:00d4ff&height=2&section=footer" width="100%"/>
