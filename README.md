@@ -51,13 +51,12 @@ With expertise in **Full-Stack Development**, **Machine Learning**, and **Cloud 
 | 🌐 **Portfolio** | [iamaftabmansuri.vercel.app](https://iamaftabmansuri.vercel.app) |
 | 💼 **LinkedIn** | [aftab-mansuri-607811338](https://www.linkedin.com/in/aftab-mansuri-607811338/?utm_source=github) |
 | 💻 **GitHub** | [mansuriaftabmfd](https://github.com/mansuriaftabmfd) |
-| 💬 **Ask me about** | Python, JavaScript, Data Science, ML, Full Stack Development, System Design |
 
 </div>
 
     </td>
     <td width="45%" valign="top">
-      <img align="right" alt="Coding" src="gif.gif" width="100%" style="border-radius: 15px; margin: 0 10px; box-shadow: 0 4px 15px rgba(14, 117, 182, 0.3);"/>
+      <img align="right" alt="Developer Working" src="https://user-images.githubusercontent.com/74038190/221857969-686a7919-c4e0-4a6d-8b1b-8d5a7f7e8c8e.gif" width="100%" style="border-radius: 15px; margin: 0 10px; box-shadow: 0 4px 15px rgba(14, 117, 182, 0.3);"/>
     </td>
   </tr>
 </table>
