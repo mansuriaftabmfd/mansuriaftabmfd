@@ -49,13 +49,9 @@ With expertise in **Full-Stack Development**, **Machine Learning**, and **Cloud 
 |----------|------|
 | 📧 **Email** | [mansuriaftab7860@gmail.com](mailto:mansuriaftab7860@gmail.com) |
 | 🌐 **Portfolio** | [iamaftabmansuri.vercel.app](https://iamaftabmansuri.vercel.app) |
-| 💼 **LinkedIn** | [aftab-mansuri-607811338](https://www.linkedin.com/in/aftab-mansuri-607811338/) |
+| 💼 **LinkedIn** | [aftab-mansuri-607811338](https://www.linkedin.com/in/aftab-mansuri-607811338/?utm_source=github) |
 | 💻 **GitHub** | [mansuriaftabmfd](https://github.com/mansuriaftabmfd) |
 | 💬 **Ask me about** | Python, JavaScript, Data Science, ML, Full Stack Development, System Design |
-
-### ⚡ Fun Fact
-
-*Passionate about solving puzzles through code, obsessed with clean architecture, and always up for a technical challenge! 📚🔥*
 
 </div>
 
@@ -68,11 +64,33 @@ With expertise in **Full-Stack Development**, **Machine Learning**, and **Cloud 
 
 ---
 
+## ⚡ Fun Fact
+
+<div align="center">
+
+### 🔥 Why I Code
+
+```
+Passionate about solving puzzles through code 🧩
+Obsessed with clean architecture and best practices 🏗️
+Always up for a technical challenge 💪
+Driven by turning ideas into reality 🚀
+```
+
+**I believe great code is art.** Each line matters. Each function tells a story. 
+Every project is an opportunity to learn, grow, and make an impact.
+
+*In short: Code is my passion, problems are my fuel, and innovation is my goal!* ⭐
+
+</div>
+
+---
+
 ## 🔗 Connect With Me
 
 <div align="center">
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/aftab-mansuri-607811338/)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/aftab-mansuri-607811338/?utm_source=github)
 [![GitHub](https://img.shields.io/badge/GitHub-%23181717.svg?style=for-the-badge&logo=github&logoColor=white)](https://github.com/mansuriaftabmfd)
 [![Gmail](https://img.shields.io/badge/Gmail-%23D14836.svg?style=for-the-badge&logo=gmail&logoColor=white)](mailto:mansuriaftab7860@gmail.com)
 [![Portfolio](https://img.shields.io/badge/Portfolio-%230e75b6.svg?style=for-the-badge&logo=vercel&logoColor=white)](https://iamaftabmansuri.vercel.app)
@@ -236,7 +254,7 @@ Visit my [**Portfolio**](https://iamaftabmansuri.vercel.app) for:
 
 ---
 
-## 💬 Let's Connect!
+## 💬 Let's Connect & Collaborate!
 
 <div align="center">
 
@@ -244,7 +262,7 @@ Visit my [**Portfolio**](https://iamaftabmansuri.vercel.app) for:
 
 📧 **Email me:** [mansuriaftab7860@gmail.com](mailto:mansuriaftab7860@gmail.com)
 
-🔗 **Connect on LinkedIn:** [aftab-mansuri-607811338](https://www.linkedin.com/in/aftab-mansuri-607811338/)
+💼 **Connect on LinkedIn:** [aftab-mansuri-607811338](https://www.linkedin.com/in/aftab-mansuri-607811338/?utm_source=github)
 
 💻 **Follow on GitHub:** [mansuriaftabmfd](https://github.com/mansuriaftabmfd)
 
@@ -252,18 +270,39 @@ Visit my [**Portfolio**](https://iamaftabmansuri.vercel.app) for:
 
 ---
 
-<!-- Premium Footer -->
+<!-- Premium Dark Footer Section -->
 <div align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:00d4ff&color=100:0e75b6&height=120&section=footer" width="100%"/>
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0d1117&color=100:1a1a2e&height=150&section=footer&text=Happy%20Coding!&fontSize=40&fontColor=00d4ff&animation=fadeIn" width="100%"/>
 </div>
 
-<div align="center">
-  <p><strong>⭐ If you find my work interesting, consider leaving a star on my repositories! ⭐</strong></p>
-  <p>Let's build something amazing together! 🚀</p>
-  <p>Made with ❤️ and ☕ by <strong>Aftab Mansuri</strong></p>
-  <p>
-    <a href="https://www.linkedin.com/in/aftab-mansuri-607811338/" target="_blank">
-      <img src="https://img.shields.io/badge/Connect%20on%20LinkedIn-%230077B5?style=flat-square&logo=linkedin&logoColor=white" alt="LinkedIn Badge"/>
+<div align="center" style="background-color: #0d1117; padding: 20px; border-radius: 10px; margin-top: 20px;">
+  
+  ### ⭐ Support My Work
+  
+  **If you find my repositories useful, please consider giving them a star!** ⭐
+  
+  Your support means the world to me and helps others discover these projects.
+  
+  ---
+  
+  <p><strong>Let's build something amazing together! 🚀</strong></p>
+  
+  <p style="margin-top: 15px;">Made with ❤️ and ☕ by <strong>Aftab Mansuri</strong></p>
+  
+  <p style="margin-top: 10px;">
+    <a href="https://www.linkedin.com/in/aftab-mansuri-607811338/?utm_source=github" target="_blank" rel="noopener noreferrer">
+      <img src="https://img.shields.io/badge/Connect%20on%20LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Badge"/>
     </a>
   </p>
+  
+  <p style="font-size: 12px; color: #888; margin-top: 10px;">
+    © 2026 Aftab Mansuri • All Rights Reserved
+  </p>
+  
+</div>
+
+---
+
+<div align="center">
+  <img src="https://capsule-render.vercel.app/api?type=rect&color=0:0e75b6&color=100:00d4ff&height=2&section=footer" width="100%"/>
 </div>
