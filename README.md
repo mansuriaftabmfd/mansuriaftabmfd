@@ -56,78 +56,7 @@ With expertise in **Full-Stack Development**, **Machine Learning**, and **Cloud 
 
     </td>
     <td width="45%" valign="top">
-      <svg align="right" alt="Developer Coding" viewBox="0 0 400 400" width="100%" style="border-radius: 15px; margin: 0 10px; box-shadow: 0 4px 15px rgba(14, 117, 182, 0.3);">
-        <!-- Background -->
-        <rect width="400" height="400" fill="#0d1117" rx="15"/>
-        
-        <!-- Code Lines Animation -->
-        <g id="code-lines">
-          <!-- Line 1 -->
-          <text x="30" y="60" font-family="monospace" font-size="14" fill="#00d4ff" font-weight="bold">const</text>
-          <text x="80" y="60" font-family="monospace" font-size="14" fill="#ffffff">buildFuture</text>
-          <text x="220" y="60" font-family="monospace" font-size="14" fill="#0e75b6">=</text>
-          <text x="240" y="60" font-family="monospace" font-size="14" fill="#ff6b35">()</text>
-          <text x="280" y="60" font-family="monospace" font-size="14" fill="#0e75b6">=></text>
-          
-          <!-- Line 2 -->
-          <text x="30" y="90" font-family="monospace" font-size="14" fill="#ffffff">{</text>
-          
-          <!-- Line 3 -->
-          <text x="50" y="120" font-family="monospace" font-size="14" fill="#00d4ff">return</text>
-          <text x="130" y="120" font-family="monospace" font-size="14" fill="#ff6b35">{</text>
-          
-          <!-- Line 4 -->
-          <text x="70" y="150" font-family="monospace" font-size="13" fill="#4FC08D">code</text>
-          <text x="115" y="150" font-family="monospace" font-size="13" fill="#0e75b6">:</text>
-          <text x="130" y="150" font-family="monospace" font-size="13" fill="#ff6b35">'clean'</text>
-          <text x="230" y="150" font-family="monospace" font-size="13" fill="#0e75b6">,</text>
-          
-          <!-- Line 5 -->
-          <text x="70" y="180" font-family="monospace" font-size="13" fill="#4FC08D">ideas</text>
-          <text x="115" y="180" font-family="monospace" font-size="13" fill="#0e75b6">:</text>
-          <text x="130" y="180" font-family="monospace" font-size="13" fill="#ff6b35">'scalable'</text>
-          <text x="270" y="180" font-family="monospace" font-size="13" fill="#0e75b6">,</text>
-          
-          <!-- Line 6 -->
-          <text x="70" y="210" font-family="monospace" font-size="13" fill="#4FC08D">passion</text>
-          <text x="145" y="210" font-family="monospace" font-size="13" fill="#0e75b6">:</text>
-          <text x="160" y="210" font-family="monospace" font-size="13" fill="#ff6b35">'infinite'</text>
-          <text x="280" y="210" font-family="monospace" font-size="13" fill="#0e75b6">,</text>
-          
-          <!-- Line 7 -->
-          <text x="70" y="240" font-family="monospace" font-size="13" fill="#4FC08D">impact</text>
-          <text x="130" y="240" font-family="monospace" font-size="13" fill="#0e75b6">:</text>
-          <text x="145" y="240" font-family="monospace" font-size="13" fill="#ff6b35">'real'</text>
-          
-          <!-- Line 8 -->
-          <text x="50" y="270" font-family="monospace" font-size="14" fill="#ff6b35">}</text>
-          <text x="70" y="270" font-family="monospace" font-size="14" fill="#0e75b6">;</text>
-          
-          <!-- Line 9 -->
-          <text x="30" y="300" font-family="monospace" font-size="14" fill="#ffffff">}</text>
-        </g>
-        
-        <!-- Cursor Blink -->
-        <g id="cursor">
-          <rect x="300" y="300" width="3" height="20" fill="#00d4ff" opacity="0.8">
-            <animate attributeName="opacity" values="1;0.3;1" dur="1.5s" repeatCount="indefinite"/>
-          </rect>
-        </g>
-        
-        <!-- Glow Effect -->
-        <defs>
-          <filter id="glow">
-            <feGaussianBlur stdDeviation="3" result="coloredBlur"/>
-            <feMerge>
-              <feMergeNode in="coloredBlur"/>
-              <feMergeNode in="SourceGraphic"/>
-            </feMerge>
-          </filter>
-        </defs>
-        
-        <!-- Code Elements Glow -->
-        <rect x="20" y="40" width="360" height="280" fill="none" stroke="#0e75b6" stroke-width="1" opacity="0.3" rx="5" filter="url(#glow)"/>
-      </svg>
+      <img align="right" alt="Developer Coding" src="https://raw.githubusercontent.com/Platane/snk/output/github-contribution-grid-snake.gif" width="100%" style="border-radius: 15px; margin: 0 10px; box-shadow: 0 4px 15px rgba(14, 117, 182, 0.3);"/>
     </td>
   </tr>
 </table>
