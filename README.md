@@ -1,19 +1,21 @@
-<!-- Header Banner with Animation -->
+<!-- Header Banner with Premium Animation -->
 <div align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0e75b6&color=100:00d4ff&height=280&section=header&text=Aftab%20Mansuri&fontSize=90&fontColor=ffffff&animation=fadeIn&fontAlignY=38&desc=Software%20Engineer%20%7C%20Data%20Scientist%20%7C%20ML%20Enthusiast&descAlignY=55&descAlign=50" width="100%"/>
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0e75b6&color=100:00d4ff&height=300&section=header&text=Aftab%20Mansuri&fontSize=90&fontColor=ffffff&animation=fadeIn&fontAlignY=35&desc=Software%20Engineer%20%7C%20Data%20Scientist%20%7C%20Full%20Stack%20Developer&descAlignY=51&descAlign=50" width="100%"/>
 </div>
 
-<!-- Profile Views & Badges -->
+<!-- Professional Profile Badges -->
 <div align="center">
-  <img src="https://komarev.com/ghpvc/?username=mansuriaftabmfd&label=Profile%20views&color=0e75b6&style=flat-square" alt="Profile views"/>
-  <img src="https://img.shields.io/github/followers/mansuriaftabmfd?style=flat-square&color=0e75b6&label=Followers" alt="Followers"/>
-  <img src="https://img.shields.io/badge/Location-India-blue?style=flat-square" alt="Location"/>
-  <br>
+  <img src="https://komarev.com/ghpvc/?username=mansuriaftabmfd&label=Profile%20Views&color=0e75b6&style=flat-square" alt="Profile Views" style="margin: 5px;"/>
+  <img src="https://img.shields.io/github/followers/mansuriaftabmfd?style=flat-square&color=0e75b6&label=Followers" alt="GitHub Followers" style="margin: 5px;"/>
+  <img src="https://img.shields.io/badge/Focus-Full%20Stack%20%26%20ML-0e75b6?style=flat-square" alt="Focus" style="margin: 5px;"/>
+  <img src="https://img.shields.io/badge/Location-India-blue?style=flat-square" alt="Location" style="margin: 5px;"/>
+  <br/>
+  <img src="https://img.shields.io/badge/Status-Open%20to%20Opportunities-success?style=flat-square" alt="Status" style="margin: 5px;"/>
 </div>
 
 ---
 
-<!-- Main Content Section -->
+<!-- Main Content Section with Two Columns -->
 <table>
   <tr>
     <td width="55%" valign="top">
@@ -22,32 +24,44 @@
 
 <div align="left">
 
-I'm a passionate **Software Engineer & Data Scientist** dedicated to building scalable solutions and solving real-world problems through code and data. I specialize in full-stack development, machine learning, and data analysis.
+I'm a passionate **Software Engineer & Data Scientist** dedicated to building scalable solutions and solving real-world problems through innovative code and data-driven insights. 
+
+With expertise in **Full-Stack Development**, **Machine Learning**, and **Cloud Technologies**, I transform complex problems into elegant, efficient solutions.
 
 ### 🎯 Current Focus
-- 🔭 Building **Advanced ML & Data Science** applications
-- 🚀 Developing **Full Stack Web Applications**
-- 📊 Exploring **Deep Learning** & **Computer Vision**
-- 🎓 Continuous learning & skill enhancement
 
-### 💼 Collaboration
-- 👯 Open to collaborating on **ML Projects**, **Data Analysis**, & **Software Development**
-- 🤝 Seeking opportunities in **Advanced ML**, **Real-world Projects**, & **Scale Systems**
-- 💡 Always interested in innovative ideas and challenging problems
+- 🔭 **Advanced ML & Deep Learning** applications using TensorFlow & PyTorch
+- 🚀 **Full Stack Web Applications** with React, Node.js, and modern frameworks
+- 📊 **Data Science & Analytics** - Building data pipelines and visualization dashboards
+- 🎓 **Continuous Learning** - Staying updated with latest tech trends
+- ☁️ **Cloud Architecture** - Exploring AWS, GCP, and containerization with Docker
+
+### 💼 What I'm Looking For
+
+- 👯 **Collaboration** on ML projects, scalable systems, and innovative solutions
+- 🤝 **Opportunities** in Data Engineering, ML Engineering, and Full Stack roles
+- 💡 **Challenging Problems** that push boundaries and drive real impact
+- 🌱 **Learning & Growth** in emerging technologies and best practices
 
 ### 📱 Get In Touch
-- 📧 **Email:** [mansuriaftab7860@gmail.com](mailto:mansuriaftab7860@gmail.com)
-- 🌐 **Portfolio:** [iamaftabmansuri.vercel.app](https://iamaftabmansuri.vercel.app)
-- 💬 **Ask me about:** Python, Data Analysis, Machine Learning, Java, Full Stack Development
+
+| Platform | Link |
+|----------|------|
+| 📧 **Email** | [mansuriaftab7860@gmail.com](mailto:mansuriaftab7860@gmail.com) |
+| 🌐 **Portfolio** | [iamaftabmansuri.vercel.app](https://iamaftabmansuri.vercel.app) |
+| 💼 **LinkedIn** | [aftab-mansuri-607811338](https://www.linkedin.com/in/aftab-mansuri-607811338/) |
+| 💻 **GitHub** | [mansuriaftabmfd](https://github.com/mansuriaftabmfd) |
+| 💬 **Ask me about** | Python, JavaScript, Data Science, ML, Full Stack Development, System Design |
 
 ### ⚡ Fun Fact
-*Passionate about coding, curious about data, and always ready to learn! 📚*
+
+*Passionate about solving puzzles through code, obsessed with clean architecture, and always up for a technical challenge! 📚🔥*
 
 </div>
 
     </td>
     <td width="45%" valign="top">
-      <img align="right" alt="Coding" src="gif.gif" width="100%" style="border-radius: 10px; margin: 0 10px;">
+      <img align="right" alt="Coding" src="gif.gif" width="100%" style="border-radius: 15px; margin: 0 10px; box-shadow: 0 4px 15px rgba(14, 117, 182, 0.3);"/>
     </td>
   </tr>
 </table>
@@ -58,11 +72,11 @@ I'm a passionate **Software Engineer & Data Scientist** dedicated to building sc
 
 <div align="center">
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/aftab-mansuri)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/aftab-mansuri-607811338/)
 [![GitHub](https://img.shields.io/badge/GitHub-%23181717.svg?style=for-the-badge&logo=github&logoColor=white)](https://github.com/mansuriaftabmfd)
-[![Email](https://img.shields.io/badge/Gmail-%23D14836.svg?style=for-the-badge&logo=gmail&logoColor=white)](mailto:mansuriaftab7860@gmail.com)
-[![TopCoder](https://img.shields.io/badge/TopCoder-%230066FF.svg?style=for-the-badge&logo=topcoder&logoColor=white)](https://www.topcoder.com/members/382150)
+[![Gmail](https://img.shields.io/badge/Gmail-%23D14836.svg?style=for-the-badge&logo=gmail&logoColor=white)](mailto:mansuriaftab7860@gmail.com)
 [![Portfolio](https://img.shields.io/badge/Portfolio-%230e75b6.svg?style=for-the-badge&logo=vercel&logoColor=white)](https://iamaftabmansuri.vercel.app)
+[![TopCoder](https://img.shields.io/badge/TopCoder-%230066FF.svg?style=for-the-badge&logo=topcoder&logoColor=white)](https://www.topcoder.com/members/382150)
 
 </div>
 
@@ -74,14 +88,15 @@ I'm a passionate **Software Engineer & Data Scientist** dedicated to building sc
 <div align="center">
 
 ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white&labelColor=101010)
-![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=java&logoColor=white&labelColor=101010)
 ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black&labelColor=101010)
 ![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white&labelColor=101010)
+![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=java&logoColor=white&labelColor=101010)
 ![SQL](https://img.shields.io/badge/SQL-CC2927?style=for-the-badge&logo=microsoft-sql-server&logoColor=white&labelColor=101010)
+![C++](https://img.shields.io/badge/C%2B%2B-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white&labelColor=101010)
 
 </div>
 
-### 🤖 ML & Data Science
+### 🤖 Machine Learning & Data Science
 <div align="center">
 
 ![TensorFlow](https://img.shields.io/badge/TensorFlow-FF6F00?style=for-the-badge&logo=tensorflow&logoColor=white&labelColor=101010)
@@ -93,92 +108,162 @@ I'm a passionate **Software Engineer & Data Scientist** dedicated to building sc
 
 </div>
 
-### 🌐 Web Development
+### 🌐 Web Development & Frameworks
 <div align="center">
 
 ![React](https://img.shields.io/badge/React-61DAFB?style=for-the-badge&logo=react&logoColor=black&labelColor=101010)
+![Next.js](https://img.shields.io/badge/Next.js-000000?style=for-the-badge&logo=next.js&logoColor=white&labelColor=101010)
 ![Vue.js](https://img.shields.io/badge/Vue.js-35495E?style=for-the-badge&logo=vue.js&logoColor=4FC08D&labelColor=101010)
 ![Node.js](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=node.js&logoColor=white&labelColor=101010)
-![HTML5](https://img.shields.io/badge/HTML5-E34C26?style=for-the-badge&logo=html5&logoColor=white&labelColor=101010)
-![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white&labelColor=101010)
-![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black&labelColor=101010)
+![Express](https://img.shields.io/badge/Express-000000?style=for-the-badge&logo=express&logoColor=white&labelColor=101010)
+![Tailwind CSS](https://img.shields.io/badge/Tailwind%20CSS-06B6D4?style=for-the-badge&logo=tailwind-css&logoColor=white&labelColor=101010)
 
 </div>
 
-### 🗄️ Databases
+### 🗄️ Databases & Storage
 <div align="center">
 
 ![MongoDB](https://img.shields.io/badge/MongoDB-47A248?style=for-the-badge&logo=mongodb&logoColor=white&labelColor=101010)
 ![PostgreSQL](https://img.shields.io/badge/PostgreSQL-336791?style=for-the-badge&logo=postgresql&logoColor=white&labelColor=101010)
 ![MySQL](https://img.shields.io/badge/MySQL-005C84?style=for-the-badge&logo=mysql&logoColor=white&labelColor=101010)
-![SQL%20Server](https://img.shields.io/badge/SQL%20Server-CC2927?style=for-the-badge&logo=microsoft-sql-server&logoColor=white&labelColor=101010)
+![Firebase](https://img.shields.io/badge/Firebase-FFCA28?style=for-the-badge&logo=firebase&logoColor=black&labelColor=101010)
+![Redis](https://img.shields.io/badge/Redis-DC382D?style=for-the-badge&logo=redis&logoColor=white&labelColor=101010)
 
 </div>
 
-### 🔧 Tools & Technologies
+### 🔧 DevOps & Tools
 <div align="center">
 
-![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white&labelColor=101010)
 ![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white&labelColor=101010)
+![Kubernetes](https://img.shields.io/badge/Kubernetes-326CE5?style=for-the-badge&logo=kubernetes&logoColor=white&labelColor=101010)
+![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white&labelColor=101010)
+![GitHub Actions](https://img.shields.io/badge/GitHub%20Actions-2088FF?style=for-the-badge&logo=github-actions&logoColor=white&labelColor=101010)
 ![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black&labelColor=101010)
-![VS%20Code](https://img.shields.io/badge/VS%20Code-007ACC?style=for-the-badge&logo=visual-studio-code&logoColor=white&labelColor=101010)
+![AWS](https://img.shields.io/badge/AWS-FF9900?style=for-the-badge&logo=amazon-aws&logoColor=white&labelColor=101010)
+
+</div>
+
+### 📊 Development Tools
+<div align="center">
+
+![VS Code](https://img.shields.io/badge/VS%20Code-007ACC?style=for-the-badge&logo=visual-studio-code&logoColor=white&labelColor=101010)
 ![Jupyter](https://img.shields.io/badge/Jupyter-F37726?style=for-the-badge&logo=jupyter&logoColor=white&labelColor=101010)
+![Postman](https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white&labelColor=101010)
+![NPM](https://img.shields.io/badge/npm-CB3837?style=for-the-badge&logo=npm&logoColor=white&labelColor=101010)
+![Figma](https://img.shields.io/badge/Figma-F24E1E?style=for-the-badge&logo=figma&logoColor=white&labelColor=101010)
 
 </div>
 
 ---
 
-## 📊 GitHub Statistics
+## 📊 GitHub Statistics & Insights
 
 <div align="center">
   
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=mansuriaftabmfd&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0d1117&text_color=ffffff&title_color=0e75b6&icon_color=0e75b6&border_radius=10)
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=mansuriaftabmfd&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0d1117&text_color=ffffff&title_color=0e75b6&icon_color=00d4ff&rank_icon=github)
 
 </div>
 
 <div align="center">
 
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs?username=mansuriaftabmfd&layout=compact&theme=tokyonight&hide_border=true&bg_color=0d1117&text_color=ffffff&title_color=0e75b6&border_radius=10)
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs?username=mansuriaftabmfd&layout=compact&theme=tokyonight&hide_border=true&bg_color=0d1117&text_color=ffffff&title_color=0e75b6&show_icons=true)
 
 </div>
 
 <div align="center">
 
-![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=mansuriaftabmfd&theme=tokyonight&hide_border=true&background=0d1117&stroke=0e75b6&ring=0e75b6&fire=ff6b35&sideNumbersColor=ffffff&border_radius=10)
+![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=mansuriaftabmfd&theme=tokyonight&hide_border=true&background=0d1117&stroke=0e75b6&ring=0e75b6&fire=ff6b35&sideNumbersColor=0e75b6)
 
 </div>
 
 ---
 
-## 🏆 Achievements & Highlights
+## 🏆 Key Achievements & Highlights
 
 <div align="center">
 
-| 🎯 | 📈 | 🚀 |
-|---|---|---|
-| **Problem Solver** | **Data Driven** | **Innovative** |
-| Solutions-focused developer | Analytics & insights expert | Creative approach to challenges |
+| 🎯 Focus | 📈 Expertise | 🚀 Passion |
+|:---:|:---:|:---:|
+| **Problem Solving** | **Data Analytics** | **Innovation** |
+| Building real solutions | Turning data into insights | Creative problem solving |
+| System Design | Full Stack Development | Continuous Learning |
 
 </div>
 
 ---
 
-## 📚 Latest Projects
+## 💼 Experience Snapshot
 
 <div align="center">
 
-*Check out my [portfolio](https://iamaftabmansuri.vercel.app) for detailed project showcases and live demos!*
+**Full Stack Development** • **Machine Learning** • **Data Science** • **Cloud Architecture** • **System Design**
+
+*Building scalable solutions that make a difference* 🚀
 
 </div>
 
 ---
 
-<!-- Footer -->
+## 📚 Featured Projects
+
+<div align="center">
+
+### 🔗 Check Out My Work
+
+Visit my [**Portfolio**](https://iamaftabmansuri.vercel.app) for:
+- ⭐ **Featured Projects** with live demos
+- 📊 **Case Studies** of real-world applications
+- 🎓 **Learning Resources** and technical blogs
+- 🔗 **Open Source Contributions**
+
+**[Explore All Projects →](https://iamaftabmansuri.vercel.app)**
+
+</div>
+
+---
+
+## 🎓 Learning & Development
+
+<div align="center">
+
+- 📖 Continuously exploring advanced topics in **ML & AI**
+- 🔬 Hands-on experience with **Deep Learning frameworks**
+- 📊 Expertise in **Data Pipeline Architecture**
+- 🌐 Building **Scalable Web Applications**
+- ☁️ Cloud infrastructure and **DevOps practices**
+
+</div>
+
+---
+
+## 💬 Let's Connect!
+
+<div align="center">
+
+**Have an interesting project or opportunity?**
+
+📧 **Email me:** [mansuriaftab7860@gmail.com](mailto:mansuriaftab7860@gmail.com)
+
+🔗 **Connect on LinkedIn:** [aftab-mansuri-607811338](https://www.linkedin.com/in/aftab-mansuri-607811338/)
+
+💻 **Follow on GitHub:** [mansuriaftabmfd](https://github.com/mansuriaftabmfd)
+
+</div>
+
+---
+
+<!-- Premium Footer -->
 <div align="center">
   <img src="https://capsule-render.vercel.app/api?type=waving&color=0:00d4ff&color=100:0e75b6&height=120&section=footer" width="100%"/>
 </div>
 
 <div align="center">
-  <p><strong>⭐ If you find my work interesting, feel free to star my repositories! ⭐</strong></p>
-  <p>Made with ❤️ by Aftab Mansuri</p>
+  <p><strong>⭐ If you find my work interesting, consider leaving a star on my repositories! ⭐</strong></p>
+  <p>Let's build something amazing together! 🚀</p>
+  <p>Made with ❤️ and ☕ by <strong>Aftab Mansuri</strong></p>
+  <p>
+    <a href="https://www.linkedin.com/in/aftab-mansuri-607811338/" target="_blank">
+      <img src="https://img.shields.io/badge/Connect%20on%20LinkedIn-%230077B5?style=flat-square&logo=linkedin&logoColor=white" alt="LinkedIn Badge"/>
+    </a>
+  </p>
 </div>
