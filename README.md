@@ -254,71 +254,27 @@ Visit my [**Portfolio**](https://iamaftabmansuri.vercel.app) for:
 
 ---
 
-## 💬 Let's Connect & Collaborate!
+## 💬 Let's Connect & Collaborate
 
 <div align="center">
 
-**Have an interesting project or opportunity?**
+**Have a project or opportunity in mind?**
 
-📧 **Email me:** [mansuriaftab7860@gmail.com](mailto:mansuriaftab7860@gmail.com)
+📧 **Email:** [mansuriaftab7860@gmail.com](mailto:mansuriaftab7860@gmail.com)
 
-💼 **Connect on LinkedIn:** [aftab-mansuri-607811338](https://www.linkedin.com/in/aftab-mansuri-607811338/?utm_source=github)
+💼 **LinkedIn:** [aftab-mansuri-607811338](https://www.linkedin.com/in/aftab-mansuri-607811338/?utm_source=github)
 
-💻 **Follow on GitHub:** [mansuriaftabmfd](https://github.com/mansuriaftabmfd)
+💻 **GitHub:** [mansuriaftabmfd](https://github.com/mansuriaftabmfd)
 
 </div>
 
 ---
 
-<!-- Premium Dark Footer Section -->
 <div align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0d1117&color=100:1a1a2e&height=120&section=footer" width="100%"/>
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0e75b6&color=100:00d4ff&height=120&section=footer" width="100%"/>
 </div>
 
 <div align="center">
-
-### 🚀 Keep Building, Keep Learning, Keep Growing!
-
-```
-Let's create something extraordinary together.
-Every line of code is a step towards innovation.
-Every challenge overcome is a lesson learned.
-Together, we can build solutions that matter!
-```
-
----
-
-### 💡 My Development Philosophy
-
-- **Write Clean Code** → Tomorrow's you will thank today's you
-- **Test Everything** → Don't trust, verify
-- **Document Wisely** → Code is for machines, comments are for humans
-- **Collaborate Often** → Great ideas come from great conversations
-- **Ship Fast, Iterate Often** → Perfect is the enemy of good
-- **Never Stop Learning** → The tech industry never stops, neither do I
-
----
-
-### 🌟 Let's Work Together
-
-If you're looking for a developer who writes quality code, thinks systematically, and brings energy to your team—**let's talk!**
-
-<p style="margin-top: 20px;">
-  <a href="https://www.linkedin.com/in/aftab-mansuri-607811338/?utm_source=github" target="_blank" rel="noopener noreferrer">
-    <img src="https://img.shields.io/badge/🤝%20Connect%20on%20LinkedIn-%230077B5?style=for-the-badge&logoColor=white" alt="LinkedIn Badge"/>
-  </a>
-</p>
-
----
-
-**Made with ❤️, ☕, and 💻 by Aftab Mansuri**
-
-*"Code is the art of tomorrow. Let's paint the future together."* 🎨✨
-
-© 2026 Aftab Mansuri • All Rights Reserved | Crafted with passion 🔥
-
-</div>
-
-<div align="center">
-  <img src="https://capsule-render.vercel.app/api?type=rect&color=0:0e75b6&color=100:00d4ff&height=2&section=footer" width="100%"/>
+  <p><strong>⭐ If you find my work helpful, please star my repositories! ⭐</strong></p>
+  <p>Made with ❤️ by Aftab Mansuri</p>
 </div>
