@@ -54,7 +54,6 @@ With expertise in **Full-Stack Development**, **Machine Learning**, and **Cloud 
 
 </div>
 
-    <td width="45%" valign="top">
   <img 
     align="right" 
     alt="Developer Working" 
