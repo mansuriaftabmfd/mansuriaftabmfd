@@ -58,7 +58,8 @@ With expertise in **Full-Stack Development**, **Machine Learning**, and **Cloud 
     align="right" 
     alt="Developer Working" 
     src="https://raw.githubusercontent.com/devSouvik/devSouvik/master/gif3.gif" 
-    width="100%"
+    width="50%"
+    height="50%"
   />
 </td>
   </tr>
