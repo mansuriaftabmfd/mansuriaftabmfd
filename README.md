@@ -54,10 +54,14 @@ With expertise in **Full-Stack Development**, **Machine Learning**, and **Cloud 
 
 </div>
 
-    </td>
     <td width="45%" valign="top">
-      <img align="right" alt="Developer Coding" src="https://raw.githubusercontent.com/Platane/snk/output/github-contribution-grid-snake.gif" width="100%" style="border-radius: 15px; margin: 0 10px; box-shadow: 0 4px 15px rgba(14, 117, 182, 0.3);"/>
-    </td>
+  <img 
+    align="right" 
+    alt="Developer Working" 
+    src="https://raw.githubusercontent.com/devSouvik/devSouvik/master/gif3.gif" 
+    width="100%"
+  />
+</td>
   </tr>
 </table>
 
