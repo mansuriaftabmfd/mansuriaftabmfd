@@ -1,6 +1,6 @@
 <!-- Header Banner with Premium Animation -->
 <div align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0e75b6&color=100:00d4ff&height=300&section=header&text=Aftab%20Mansuri&fontSize=90&fontColor=ffffff&animation=fadeIn&fontAlignY=35&desc=Software%20Engineer%20%7C%20Data%20Scientist%20%7C%20Full%20Stack%20Developer&descAlignY=51&descAlign=50" width="100%"/>
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0e75b6&color=100:00d4ff&height=300&section=header&text=Aftab%20Mansuri&fontSize=90&fontColor=ffffff&animation=fadeIn&fontAlignY=50" width="100%"/>
 </div>
 
 <!-- Professional Profile Badges -->
@@ -58,8 +58,8 @@ With expertise in **Full-Stack Development**, **Machine Learning**, and **Cloud 
     align="right" 
     alt="Developer Working" 
     src="https://raw.githubusercontent.com/devSouvik/devSouvik/master/gif3.gif" 
-    width="50%"
-    height="50%"
+    width="45%"
+    style="max-width: 100%; height: auto; margin-top: 20px;"
   />
 </td>
   </tr>
@@ -181,13 +181,13 @@ Every project is an opportunity to learn, grow, and make an impact.
 
 <div align="center">
   
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=mansuriaftabmfd&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0d1117&text_color=ffffff&title_color=0e75b6&icon_color=00d4ff&rank_icon=github)
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=mansuriaftabmfd&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0d1117&text_color=ffffff&title_color=0e75b6&icon_color=0e75b6)
 
 </div>
 
 <div align="center">
 
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs?username=mansuriaftabmfd&layout=compact&theme=tokyonight&hide_border=true&bg_color=0d1117&text_color=ffffff&title_color=0e75b6&show_icons=true)
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs?username=mansuriaftabmfd&layout=compact&theme=tokyonight&hide_border=true&bg_color=0d1117&text_color=ffffff&title_color=0e75b6&border_color=0e75b6)
 
 </div>
 
